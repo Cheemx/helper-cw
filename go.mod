@@ -1,4 +1,4 @@
-module github.com/Cheemx/cw-backend/shared
+module github.com/Cheemx/shared
 
 go 1.23.4
 
