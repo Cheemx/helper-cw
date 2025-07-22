@@ -1,4 +1,4 @@
-module github.com/Cheemx/shared
+module github.com/Cheemx/helper-cw
 
 go 1.23.4
 
